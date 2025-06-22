@@ -32,7 +32,7 @@ Sistema de gerenciamento de biblioteca universitária com controle de empréstim
 ## ⚙️ Funcionalidades Principais
 
 ### 📖 Stored Procedure: `RealizarEmprestimo`
-```sql
+``sql
 CALL RealizarEmprestimo(id_aluno, id_livro);
 Fluxo de Operação:
 
@@ -104,4 +104,4 @@ Esta documentação inclui:
 - Consultas úteis para gestão
 - Instruções básicas de implantação
 
-Pronto para ser usado como README.md no seu repositório! Pode adicionar badges, exemplos de saída ou diagramas ER conforme necessidade.
+
