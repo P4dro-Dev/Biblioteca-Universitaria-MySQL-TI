@@ -94,14 +94,3 @@ Privilégios para criação de bancos de dados
 
 📄 Licença
 MIT License - Disponível para uso acadêmico e comercial
-
-text
-
-Esta documentação inclui:
-- Diagrama conceitual das tabelas
-- Fluxo completo da operação principal
-- Exemplos práticos de uso
-- Consultas úteis para gestão
-- Instruções básicas de implantação
-
-
