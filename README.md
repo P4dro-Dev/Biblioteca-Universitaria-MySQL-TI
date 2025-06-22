@@ -1,2 +1,2 @@
 # Biblioteca-Universitaria-MySQL-TI
-Este trabalho implementa um sistema de biblioteca universitária em SQL com controle de empréstimos, verificando limites de livros por aluno e disponibi
+Este trabalho implementa um sistema de biblioteca universitária em SQL com controle de empréstimos, verificando limites de livros por aluno e disponib
